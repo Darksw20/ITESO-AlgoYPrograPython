@@ -1,0 +1,3 @@
+Inicio de archivo
+12345	Juan Perez
+Fin del archivo
