@@ -1,0 +1,4 @@
+>secuencia 1
+ACTG
+>secuencia 2
+GATA
